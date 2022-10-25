@@ -48,8 +48,9 @@ This challenge is composed of following steps:
 
 - PySpark should be used
 - Feel free to use any libraries (you can use pip install, if needed)
-- Use a visualization library to present your analysis results.
+- Use a visualization library to present your analysis results
 - Any learnings/ challenges/ considerations/ assumptions, please document in [MyDocument.md](https://github.com/projectforyou/project1/blob/main/MyDocument.md)
+- Except for visualizations keep it mostly as pyspark dataframe(Avoid converting pyspark dataframe to pandas dataframe)
 
 ## Technical Support:
 
